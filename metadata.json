@@ -1,0 +1,7 @@
+{
+  "name": "SzopGrad - Twój Akademicki Organizer",
+  "description": "Kompleksowa aplikacja do zarządzania studiami: plan zajęć, terminy egzaminów, zadania oraz inteligentny asystent AI wspierający naukę.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
